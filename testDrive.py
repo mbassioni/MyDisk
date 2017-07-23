@@ -1,6 +1,7 @@
 from disk_manager import DiskManager; 
 from commands import cat, ls
-from document import Path, File; 
+from document import  File; 
+from path import Path; 
 
 if __name__ == "__main__":
 	#Create a disk instance
